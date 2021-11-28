@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/trunk/peanut-1.2/peanut.iml" filepath="$PROJECT_DIR$/trunk/peanut-1.2/peanut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trunk/peanut-1.2/peanut.core/peanut.core.iml" filepath="$PROJECT_DIR$/trunk/peanut-1.2/peanut.core/peanut.core.iml" />
+    </modules>
+  </component>
+</project>
